@@ -13,6 +13,7 @@ Read more [About Us](https://github.com/ncp-ph/ncp.github.io/blob/main/docs/abou
 ## Github resources 
 
 For those new to github, see [Intro to Github](docs/intro-github.md)
+For those creating diagrams, see [Diagram Notes](https://github.com/ncp-ph/document-mgmt-1/blob/main/diagram-notes.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
