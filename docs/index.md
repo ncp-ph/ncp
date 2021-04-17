@@ -2,7 +2,15 @@
 
 We use this as a portal for project documentation and code.
 
-### Github resources 
+## NCP
+Read more [About Us](https://github.com/ncp-ph/ncp.github.io/blob/main/docs/about.md)
+
+### Teams
+* [Document Management](https://github.com/ncp-ph/document-mgmt-1)
+* [Data Management-Sampa](https://github.com/ncp-ph/sampa-dmplan)
+
+
+## Github resources 
 
 For those new to github, see [Intro to Github](docs/intro-github.md)
 
