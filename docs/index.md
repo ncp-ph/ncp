@@ -2,7 +2,7 @@
 
 We use this as a portal for project documentation and code.
 
-### Github resources for NCP can be found at [Intro to Github](/intro-github.md)
+### Github resources for NCP can be found at [Intro to Github](docs/intro-github.md)
 
 ### A quick intro to Github
 
