@@ -2,6 +2,8 @@
 
 We use this as a portal for project documentation and code.
 
+### Github resources for NCP can be found at [Intro to Github](/intro-github.md)
+
 ### A quick intro to Github
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -26,4 +28,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### More Github resources
