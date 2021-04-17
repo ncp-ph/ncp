@@ -1,10 +1,10 @@
-## Welcome to NCP's GitHub Pages
+
 
 We use this as a portal for project documentation and code.
 
-### Github resources for NCP can be found at [Intro to Github](docs/intro-github.md)
+### Github resources 
 
-### A quick intro to Github
+For those new to github, see [Intro to Github](docs/intro-github.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
