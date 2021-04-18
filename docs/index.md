@@ -1,21 +1,32 @@
+[//]: # (This is how to comment on markdown without being displayed in html or on .md output)
+[//]: # (This may be the most platform independent comment)
+[//]: # ( this is the format for linking to .md files .. https://<user>.github.io/<repository>/about/contact-us.html)
 
-
-We use this as a portal for project documentation and code.
+This is NCP's portal for project documentation and project code on github.
 
 ## NCP
-Read more [About Us](https://github.com/ncp-ph/ncp.github.io/blob/main/docs/about.md)
+NCP is a non-profit organization working in public health and nutrition. See our [website](www.ncp.org.ph).
 
-### Teams
-* [Document Management](https://github.com/ncp-ph/document-mgmt-1)
+### Repositories
+* [Document Management](https:///ncp-ph.github.io/document-mgmt-1)
 * [Data Management-Sampa](https://github.com/ncp-ph/sampa-dmplan)
 
+### Teams
+* Document Management Team
+* Data Management Team
+* Information Management Team
 
 ## Github resources 
 
 For those new to github, see [Intro to Github](docs/intro-github.md)
 For those creating diagrams, see [Diagram Notes](https://github.com/ncp-ph/document-mgmt-1/blob/main/diagram-notes.md)
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
+For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more about Markdown itself, including syntax, see John Gruber's site: [Daring Fireball](https://daringfireball.net/projects/markdown/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some examples on how to use Markdown.
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -35,5 +46,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
