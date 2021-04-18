@@ -8,13 +8,13 @@ This is NCP's portal for project documentation and project code on github.
 NCP is a non-profit organization working in public health and nutrition. See our [website](www.ncp.org.ph).
 
 ### Repositories
-* [Document Management](https://ncp-ph.github.io/document-mgmt-1)
+* [Document Management](https://github.com/ncp-ph/document-mgmt-1)
 * [Data Management-Sampa](https://github.com/ncp-ph/sampa-dmplan)
 
-### Teams
-* Document Management Team
-* Data Management Team
-* Information Management Team
+### [Teams](https://github.com/orgs/ncp-ph/teams)
+* [Document Management Team](https://github.com/orgs/ncp-ph/teams/document-management-team)
+* [Data Management Team](https://github.com/orgs/ncp-ph/teams/ncp-data-mgmt)
+* [AWS Systems](https://github.com/orgs/ncp-ph/teams/aws-system-operations)
 
 ## Github resources 
 
