@@ -19,7 +19,7 @@ NCP is a non-profit organization working in public health and nutrition. See our
 ### Data Entry
 * [REDCap-NCP](https://redcap.ncp.org.ph/) 
 * [DHIS2 on AWS](https://dhis2dev.ncp.org.ph/dhis-web-commons/security/login.action)  
-* [ODK Central on Digital Ocean]  
+* [ODK Central on Digital Ocean](https://odk1.ncp.org.ph/#/login?next=%2F)  
 * [LIMS](https://lims.ncp.org.ph/)  
 * [Quartzy for Lab Inventory](https://app.quartzy.com/login)  
 * [REDCap-LSHTM](https://redcap.am.lshtm.ac.uk/redcap/)  
