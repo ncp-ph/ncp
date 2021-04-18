@@ -18,11 +18,11 @@ NCP is a non-profit organization working in public health and nutrition. See our
 
 ## Github resources 
 
-For those new to github, see [Intro to Github](https://ncp-ph.github.io/ncp.github.io/docs/intro-github.html)
-For those creating diagrams, see [Diagram Notes](https://github.com/ncp-ph/document-mgmt-1/blob/main/diagram-notes.md)
-Markdown is a lightweight and easy-to-use syntax for styling your writing.
-For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-For more about Markdown itself, including syntax, see John Gruber's site: [Daring Fireball](https://daringfireball.net/projects/markdown/)
+For those new to github, see [Intro to Github](https://github.com/ncp-ph/document-mgmt-1/blob/main/intro-github.md).  
+For those creating diagrams, see [Diagram Notes](https://github.com/ncp-ph/document-mgmt-1/blob/main/diagram-notes.md).  
+Markdown is a lightweight and easy-to-use syntax for styling your writing.  
+For more details, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).  
+For more about Markdown itself, including syntax, see John Gruber's site: [Daring Fireball](https://daringfireball.net/projects/markdown/).  
 
 Some examples on how to use Markdown.
 
