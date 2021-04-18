@@ -5,7 +5,7 @@
 This is NCP's portal for project documentation and project code on github.
 
 ## NCP
-NCP is a non-profit organization working in public health and nutrition. See our [website](www.ncp.org.ph).
+NCP is a non-profit organization working in public health and nutrition. See our [website](http://www.ncp.org.ph).
 
 ### Repositories
 * [Document Management](https://github.com/ncp-ph/document-mgmt-1)
