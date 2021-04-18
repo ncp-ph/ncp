@@ -2,7 +2,7 @@
 [//]: # (This may be the most platform independent comment)
 [//]: # ( this is the format for linking to .md files .. https://<user>.github.io/<repository>/about/contact-us.html)
 
-This is NCP's portal for project documentation and project code on github.
+This is NCP's portal for project documentation and code on github.
 
 ## NCP
 NCP is a non-profit organization working in public health and nutrition. See our [website](http://www.ncp.org.ph).
@@ -15,6 +15,18 @@ NCP is a non-profit organization working in public health and nutrition. See our
 * [Document Management Team](https://github.com/orgs/ncp-ph/teams/document-management-team)
 * [Data Management Team](https://github.com/orgs/ncp-ph/teams/ncp-data-mgmt)
 * [AWS Systems](https://github.com/orgs/ncp-ph/teams/aws-system-operations)
+
+### Data Entry
+* [REDCap-NCP](https://redcap.ncp.org.ph/) 
+* [DHIS2 on AWS](https://dhis2dev.ncp.org.ph/dhis-web-commons/security/login.action)  
+* [ODK Central on Digital Ocean]  
+* [LIMS](https://lims.ncp.org.ph/)  
+* [Quartzy for Lab Inventory](https://app.quartzy.com/login)  
+* [REDCap-LSHTM](https://redcap.am.lshtm.ac.uk/redcap/)  
+
+### Online Tools 
+* Online Presentations  
+* Online Diagrams  
 
 ## Github resources 
 
