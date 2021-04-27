@@ -4,4 +4,4 @@ This serves as the repository for the NCP github page published at https://ncp-p
 The docs folder contains the files for that page.
 
 ## Issues
-For all Problems regarding using github at NCP that you encountered, whether resolved or not, please create an Issue.
+For all Problems regarding using github at NCP that you encountered, whether resolved or not, please [create an Issue in this repository : Using Github NCP](https://github.com/ncp-ph/using-github-ncp/issues)
