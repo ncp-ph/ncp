@@ -9,9 +9,11 @@ NCP is a non-profit organization working in public health and nutrition. See our
 
 ### [NCP Organization Page on Github](https://github.com/ncp-ph)
 
+
 ### Selected Repositories
 * [Document Management](https://github.com/ncp-ph/document-mgmt-1)
 * [Data Management-Sampa](https://github.com/ncp-ph/sampa-dmplan)
+* [Private Repository for Github use at NCP](https://github.com/ncp-ph/using-github-ncp) _Log issues with github use here_
 
 ### [Teams](https://github.com/orgs/ncp-ph/teams)
 * [Document Management Team](https://github.com/orgs/ncp-ph/teams/document-management-team)
